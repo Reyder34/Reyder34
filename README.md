@@ -65,7 +65,7 @@ Polyvalent sur les stacks back et front, j'aime porter un projet de bout en bout
 ### `★` Projets
 
 #### [CatanFramework](https://github.com/Reyder34/CatanFramework) &nbsp;`· dernier projet`
-Implémentation du jeu Les Colons de Catane sous **Godot**, pensée pour être **hautement moddable** : le cœur du jeu est volontairement **agnostique** et fonctionne comme un framework.
+Implémentation du jeu Les Colons de Catane sous **Godot**, pensée pour être **hautement moddable** : le cœur du jeu est volontairement **agnostique** et fonctionne comme un framework en plus de fournir des éléments visuel réutilisable pour des model customs.
 `Godot` · `GDScript`
 
 #### [Anonymex](https://github.com/Reyder34/annonymex)
