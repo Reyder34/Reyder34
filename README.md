@@ -2,8 +2,8 @@
 
 # Dorian Rey
 
-**M2 Génie Logiciel** · Université de Montpellier
-*Recherche une alternance développeur pour septembre 2026 · Mobilité nationale*
+**M1 Génie Logiciel** · Université de Montpellier
+*Recherche une alternance développeur pour septembre 2026 (M2) · Mobilité nationale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-rey-1baa9a339/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorianrey10@gmail.com)
