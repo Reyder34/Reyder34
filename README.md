@@ -74,7 +74,7 @@ Application web d'anonymisation des copies d'examens, **déployée en production
 
 #### [ComptaExportNativ](https://github.com/Reyder34/ComptaExportNativ)
 Outil **C# / .NET livré à un cabinet de comptabilité** : transformation automatique de données Excel vers le format d'import de l'ERP Divalto. Suppression des ressaisies manuelles.
-`C#` · `.NET` · `OpenXML` · `Windows`
+`C#` · `.NET` · `OpenXML` · `Windows Natif`
 
 #### [Classification de tweets](https://github.com/Reyder34/Classification-tweet-scientifique)
 Pipeline **NLP** complet : nettoyage, vectorisation TF-IDF, entraînement et comparaison de modèles supervisés via scikit-learn. Évaluation par précision, rappel, F1 et matrice de confusion.
