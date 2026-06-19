@@ -13,7 +13,7 @@
 
 ---
 
-### `{ }` À propos
+### `{/}` À propos
 
 Polyvalent sur les stacks back et front, j'aime porter un projet de bout en bout, du cadrage du besoin jusqu'à la mise en production. Plusieurs projets déjà **livrés et toujours utilisés** : une application web déployée à la Faculté des Sciences, un outil métier C# livré à un cabinet de comptabilité, un pipeline NLP de classification supervisée.
 
